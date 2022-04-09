@@ -7,4 +7,5 @@ int main(){
 	input.cetak();
 	input.toFile();
 	return 0;
+	
 }
