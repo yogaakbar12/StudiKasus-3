@@ -5,9 +5,9 @@ void cetak(){
   cout<<"========================================"<<endl;
   cout<<"            STRUK PEMBAYARAN             \n";
   cout<<"========================================"<<endl;
-  cout<<"Diskon ramadhan       :"<<data_file[0]<<endl;
-  cout<<"Diskon warga negara   :"<<data_file[1]<<endl;
-  cout<<"Total                 :"<<data_file[2]<<endl;
+  cout<<"Diskon ramadhan       :"<<"Rp."<<data_file[0]<<endl;
+  cout<<"Diskon warga negara   :"<<"Rp."<<data_file[1]<<endl;
+  cout<<"Total                 :"<<"Rp."<<data_file[2]<<endl;
   cout<<"========================================";
   
 }
